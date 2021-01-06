@@ -14,7 +14,7 @@
     "et:list": "gulp themes"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-component": "^1.1.1",
     "clipboard": "^2.0.4",
     "codemirror": "^5.48.2",
